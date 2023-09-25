@@ -29,6 +29,7 @@ Para começar, siga os passos abaixo para instalar e utilizar a ferramenta DotPe
 
 
 3. Os documentos decompilados estarão à esquerda na tela inicial, permitindo a navegação pelas pastas e arquivos normalmente:
+   
    ![Documentos decompilados](https://github.com/RafaellaDeOliveira/DotPeek-Tutorial/assets/69827462/2b712179-1566-4a99-bf62-72815b35fd2c)
 
 
